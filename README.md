@@ -1,5 +1,5 @@
 # ![logo](favicon.ico) Key Maker
-A small GUI tool to generate serial keys of 16 digit length.
+A small GUI tool to generate serial keys of 16 characters length in groups of 4.
 <br/>
 ![ScreenShot](screenshot.png)
 
